@@ -1,0 +1,28 @@
+div {
+
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 10px;
+    display: inline-block;
+
+}
+
+img {
+    border: 10px groove orangered;
+    padding: 50px;
+    margin: 20px;
+}
+
+.logo1 {
+    border: 10px dashed orangered;
+}
+
+.logo2 {
+    border: 10px dotted orangered;
+}
+
+.logo3 {
+    border: 10px double orangered;
+}
+
